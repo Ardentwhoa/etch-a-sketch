@@ -1,0 +1,33 @@
+a {
+    margin: 0 auto;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: #222;
+    #background-color: #333;
+}
+
+a:hover {
+    color: #444;
+}
+
+#wrapper {
+    width: 768px;
+    height: 576px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #DDD;
+}
+
+.square {
+    height: 32px;
+    width: 32px;
+    margin: auto;
+    background-color: #555;
+    float: left;
+}
+
+.highlighted {
+    background-color: #AAA;
+}
